@@ -1,0 +1,3 @@
+mongol
+npm install
+node .
